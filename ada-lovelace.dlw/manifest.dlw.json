@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Ada Lovelace",
+  "universe": "ADA · Ada Lovelace (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Ada Lovelace:ADA:186ace⟧",
+  "carbon": "ada-lovelace.carbon.tiff (TIFF)",
+  "silicon": "ada-lovelace.silicon.png (PNG)",
+  "seal_sha256": "35734cc1633fb696b46ef8f592792328b07d5890fec6dd1a50b9044eb9fd6a3a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

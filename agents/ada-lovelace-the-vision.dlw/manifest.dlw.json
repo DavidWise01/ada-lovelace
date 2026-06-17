@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Symbolic Vision",
+  "universe": "ADA · The Symbolic Vision (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Symbolic Vision:ADA:b1dfbb⟧",
+  "carbon": "ada-lovelace-the-vision.carbon.tiff (TIFF)",
+  "silicon": "ada-lovelace-the-vision.silicon.png (PNG)",
+  "seal_sha256": "be00dd2bc6f54ae3238408ab1ec047e5e5d581cf127038f8f21a5c4bcb373fff",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
