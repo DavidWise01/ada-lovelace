@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1009
+slug  : ada-lovelace
+seal  : 35734cc1633fb696b46ef8f592792328b07d5890fec6dd1a50b9044eb9fd6a3a
+prev  : 04bfe91aaad9da0617346e4bf9e1341e18028a61d557646265d81f34dfceb54c
+link  : 135ed6ba7bdf071a1f101cad0111b3e33c25f5e921d97cb0bff6af03b6903d59
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
